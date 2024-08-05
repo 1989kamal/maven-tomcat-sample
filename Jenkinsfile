@@ -2,8 +2,8 @@
     agent {label 'slave-1'} 
     
     tools {
-        jdk 'jdk17'
-        maven 'maven3'
+        jdk 'JDK'
+        maven 'Maven3'
     } 
 
     stages {
