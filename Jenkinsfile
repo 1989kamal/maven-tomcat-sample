@@ -2,8 +2,8 @@
     agent any 
     
     tools {
-        jdk 'jdk17'
-        maven 'maven3'
+        jdk 'JDK'
+        maven 'Maven3'
     }
 
     stages {
